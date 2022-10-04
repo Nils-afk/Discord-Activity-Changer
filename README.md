@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/nilsdev/Auto Activity and Status Changer discord Bot">
-    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/art/readmemastertemplate.jpg" alt="ReadMe Master Templates" width=230 height=150>
+  <a href="https://github.com/nilsdev/Discord-Activity-Changer">
+    <img src="https://yt3.ggpht.com/jOlrHanHehXyIE4-5r71eqEEVeM_al1dh7xdiORUq201I4Dr3EPmzDuXVZ8UY3jhcTuChFqHukk=s48-c-k-c0x00ffffff-no-rj" alt="Activity Changer" width=230 height=150>
   </a>
   <h2 align="center">Auto Activity and Status Changer discord Bot</h2>
 
@@ -31,7 +31,7 @@ Despite the fact that you writing a technical document, it needs to be clear. De
 
 In this project you wil find the following readMes:
 
- - [Android Project ReadMe template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
+ - [Android Project ReadMe template](https://github.com/nilsdev/discord-activity-changer)
  - [Web project template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
  - A General contibutions guide in each project
 
